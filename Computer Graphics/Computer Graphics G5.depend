@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650129913 source:c:\users\asus\documents\computer graphics g5\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+
