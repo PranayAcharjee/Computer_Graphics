@@ -4,7 +4,7 @@
 #include <math.h>
 using namespace std;
 
-float _move3= 0.1f;
+float _move3= 0.0f;
 float _move4= 0.0f;
 GLfloat speed4= 0.2f;
 float _move5= 0.0f;
